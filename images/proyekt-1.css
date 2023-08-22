@@ -1,0 +1,252 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.first-header{
+    width:100%;
+    height: 64px;
+    background-color: #1D1E26; 
+
+}
+ul li{
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    color: #F2F2F2;
+}
+.header{
+ color: #F2F2F2;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 500px;
+}
+#center{
+    color: #F2F2F2;
+    padding: 15px;
+    text-align: center;
+    width: 336px;
+height: 64px;
+font-size: 24px;
+background-color: #8C111B; 
+}
+.main{
+    position: relative;
+    height: 1016px;
+    width: 100%;
+    background-image: url(./background-image.svg);
+    background-position:center;
+}
+.section{
+    width:100%;
+height: 1016px;
+background: #1D1E26;
+position: relative;
+border: 1px solid white;
+}
+.biography{
+    position: absolute;
+    top: 292px;
+    left: 160px;
+    width: 641px;
+height: 338px;
+text-align: center;
+color: #F2F2F2;
+}
+.bio{
+    padding: 20px;
+    text-align: center;
+}
+.img {
+    position: absolute;
+    width: 435px;
+height: 542px;
+background-image: url(./image\ 4.png);
+top: 237px;
+right:160px;
+}
+.section-2{
+    position: relative;
+    width: 100%;
+height: 1143px;
+position: relative;
+background-color: #1D1E26;
+border: 1px solid white;
+}
+.first-row{
+    position: absolute;
+    top: 273px;
+    width: 100%;
+    height: 304px;
+}
+.disc{
+    position: absolute;
+    left: 45%;
+    top: 156px;
+color: white;
+}
+.one{
+
+    position: relative;
+    width: 456px;
+height: 304px;
+background: #1D1E26;
+box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.25);
+display: inline-block;
+}
+.img-1{
+    position: absolute;
+    top:32px;
+    left: 30px;
+    background-image: url(./image\ 5.png);
+height: 160px;
+width: 160px;
+}
+ol{
+    position: absolute;
+    right: 25px;
+    bottom: 32px;
+    color: white;
+    list-style-type: 1;
+    width: 168px;
+    height: 204px;
+}
+h4{
+    position: absolute;
+    top: 32px;
+    right: 50px;
+    color: azure;
+}
+.two{
+
+    position: relative;
+    width: 456px;
+height: 304px;
+background: #1D1E26;
+box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.25);
+display: inline-block;
+}
+.img-2{
+    position: absolute;
+    top:32px;
+    left: 30px;
+    background-image: url(./image\ 2.png);
+height: 160px;
+width: 160px;
+}
+.three{
+
+    position: relative;
+    width: 456px;
+height: 304px;
+background: #1D1E26;
+box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.25);
+display: inline-block;
+}
+.img-3{
+    position: absolute;
+    top:32px;
+    left: 30px;
+    background-image: url(./image\ 3.png);
+height: 160px;
+width: 160px;
+}
+.second-row{
+    position: absolute;
+    top: 641px;
+    width: 100%;
+    height: 304px;}
+
+    .four{
+        position: relative;
+        width: 456px;
+    height: 304px;
+    background: #1D1E26;
+    box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    }
+    .img-4{
+        position: absolute;
+        top:32px;
+        left: 30px;
+        background-image: url(./4.png);
+    height: 160px;
+    width: 160px;
+    }
+    .five{
+
+        position: relative;
+        width: 456px;
+    height: 304px;
+    background: #1D1E26;
+    box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    }
+    .img-5{
+        position: absolute;
+        top:32px;
+        left: 30px;
+        background-image: url(./5.png);
+    height: 160px;
+    width: 160px;
+    }
+    .six{
+
+        position: relative;
+        width: 456px;
+    height: 304px;
+    background: #1D1E26;
+    box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    }
+    .img-6{
+        position: absolute;
+        top:32px;
+        left: 30px;
+        background-image: url(./6.png);
+    height: 160px;
+    width: 160px;
+    }
+    .footer{
+        background: #8C111B;
+        width: 100%;
+        height: 64px;
+    }
+    .foot{
+        color: white;
+        padding: 21px 80px;
+    }
+.more{
+    position: absolute;
+    bottom: 96px;
+    left: 600px;
+}
+.Elis{
+    position: absolute;
+    top: 416px;
+    left: 600px;
+    font-size: 50px;
+    color: white;
+}
+.first-text{
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 513px;
+    left: 470px;
+    text-align: center;
+    height: 58px;
+    width: 530px;
+}
+img{
+    position: absolute;
+    bottom: 64px;
+    left: 700px;
+}
+
+
+
